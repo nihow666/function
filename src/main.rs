@@ -10,7 +10,7 @@ fn another_function(x: i32, y: i32) {
 }
 
 fn statment_function() {
-    //unused variable
+    // unused variable
     let x = 5;
 
     let y = {
